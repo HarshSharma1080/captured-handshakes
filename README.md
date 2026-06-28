@@ -9,6 +9,7 @@
 
 -- if you are curious there are so many handshakes which one should i start with or to whom should i give the most priority then this is the one: 
 handshake_Airtelrake9759_A0-91-CA-9A-FC-B9_2025-11-28T01-28-48.cap
+
 -- if try and crack this handshake it will help me the most.
 
 - i promise i will keep this repo updated with the passwords of the captured handshakes one by one as i get them. 
