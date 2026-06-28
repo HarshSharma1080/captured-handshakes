@@ -7,4 +7,7 @@
 - Hashcat, Aircrack-ng, Cowpatty, Pyrit, and many more.
 - and then share the cracked passwords with me, i will be very thankful to you. 
 
+-- if you are curious there are so many handshakes which one should i start with or to whom should i give the most priority then this is the one: 
+handshake_Airtelrake9759_A0-91-CA-9A-FC-B9_2025-11-28T01-28-48.cap
+
 - thank you! for your help.  
