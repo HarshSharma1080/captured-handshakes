@@ -8,7 +8,7 @@
 - and then share the cracked passwords with me, i will be very thankful to you. 
 
 - i have created 2 folders here both includes the same captured handshakes but in different extension. 
-- because many popular ones don't work with the .cap, they work with the .hc22000 for example the Hashcat used the .hc22000
+- because many popular ones don't work with the .cap, they work with the .hc22000 for example the Hashcat uses the .hc22000
 
 
 -- if you are curious there are so many handshakes which one should i start with or to whom should i give the most priority then this is the one: 
