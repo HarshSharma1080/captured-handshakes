@@ -12,9 +12,9 @@
 
 
 -- if you are curious there are so many handshakes which one should i start with or to whom should i give the most priority then this is the one: 
-priority order:
-1)handshake_AirtelJaiswalWineBarResto_C4-9A-31-6C-79-2E_2026-06-30T19-17-31.cap
-2)handshake_Airtelrake9759_A0-91-CA-9A-FC-B9_2025-11-28T01-28-48.cap
+- priority order:
+- 1)handshake_AirtelJaiswalWineBarResto_C4-9A-31-6C-79-2E_2026-06-30T19-17-31.cap
+- 2)handshake_Airtelrake9759_A0-91-CA-9A-FC-B9_2025-11-28T01-28-48.cap
 
 -- if you try and crack this handshake it will help me the most.
 
