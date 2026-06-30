@@ -22,9 +22,9 @@
 
 - thank you! for your help.
 
-'''
+```
 print("hello world")
 age = int(input("what is your age?"))
 printf("your age is ", age, " thanks for this information")
 
-'''python
+```python
