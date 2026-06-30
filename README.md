@@ -11,7 +11,7 @@ and then share the cracked passwords with me, i will be very thankful to you.
 because many popular ones don't work with the .cap, they work with the .hc22000 for example the Hashcat uses the .hc22000
 
 
-- *if you are curious there are so many handshakes which one should i start with or to whom should i give the most priority then refer to the [priority.md](https://github.com/HarshSharma1080/captured-handshakes/blob/main/priority.md) here i have arranged few handshakes based on their priority/importance*
+- *if you are curious there are so many handshakes which one should i start with or to whom should i give the most priority then refer to the [**priority.md**](https://github.com/HarshSharma1080/captured-handshakes/blob/main/priority.md) here i have arranged few handshakes based on their priority/importance*
 
 - **i promise i will keep this repo updated with the passwords of the captured handshakes one by one as i get them.** 
 
