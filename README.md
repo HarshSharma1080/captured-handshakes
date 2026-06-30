@@ -21,3 +21,10 @@
 - i promise i will keep this repo updated with the passwords of the captured handshakes one by one as i get them. 
 
 - thank you! for your help.
+
+'''
+print("hello world")
+age = int(input("what is your age?"))
+printf("your age is ", age, " thanks for this information")
+
+'''python
